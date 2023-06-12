@@ -12,6 +12,12 @@ npm create svelte@latest
 
 # create a new project in my-app
 npm create svelte@latest my-app
+
+# install tailwindcss and daisyui
+npx svelte-add@latest tailwindcss --daisyui --forms --typography
+
+# install dependencies
+npm install
 ```
 
 ## Developing
