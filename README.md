@@ -18,6 +18,9 @@ npx svelte-add@latest tailwindcss --daisyui --forms --typography
 
 # install dependencies
 npm install
+
+# install pocketbase sdk
+npm install pocketbase
 ```
 
 ## Developing
